@@ -2,7 +2,7 @@
 window.MyLoginZoidComponent = zoid.create({
     dimensions: {
         width: '300px',
-        height: '150px',
+        height: '200px',
     },
 
     // The html tag used to render my component
