@@ -18,8 +18,10 @@ window.MyLoginZoidComponent = zoid.create({
       required: true
     },
 
-  close: {
+  toggleBar: {
     type: 'function',
     required: true
   }
+    
+    
 });
